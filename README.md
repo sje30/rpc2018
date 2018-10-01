@@ -1,6 +1,6 @@
 # Lecture notes
 
-[spr.pdf](spr.pdf) [4 up](spr-4up.pdf)
+[Lecture notes (1 up)](spr.pdf) [(4 up)](spr-4up.pdf)
 
 
 
