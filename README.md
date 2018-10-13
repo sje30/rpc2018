@@ -6,6 +6,8 @@ Lab 1: Dynamic models in Biology: [local copy of DMB
 scripts/data](http://damtp.cam.ac.uk/user/sje30/teaching/r/Rfiles)
 
 
+[LaTeX lecture](latex101.pdf)
+Lab 2: latex
 
 
 # Assignments
