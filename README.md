@@ -15,9 +15,8 @@ Lab 2: latex
 
 ## Assignment 1
 
-<!--  See folder [a1](a1) for details. -->
+See folder [a1](a1) for details.
 
-To follow
 
 ## Assignment 2
 
