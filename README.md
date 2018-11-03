@@ -11,6 +11,8 @@ scripts/data](http://damtp.cam.ac.uk/user/sje30/teaching/r/Rfiles)
 Lab 2: latex
 
 
+Lab 3: [knitr/bookdown](https://github.com/lgatto/spr/tree/master/estimate)
+
 # Assignments
 
 ## Assignment 1
