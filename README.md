@@ -20,7 +20,7 @@ See folder [a1](a1) for details.
 
 ## Assignment 2
 
-To follow
+See folder [a2](a2) for details.
 
 ## Assignment 3
 
