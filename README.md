@@ -26,7 +26,7 @@ See folder [a2](a2) for details.
 
 ## Assignment 3
 
-To follow
+See folder [a3](a3) for details.
 
 
 	
